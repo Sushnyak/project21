@@ -5,7 +5,7 @@ public class Main {
 
         int price = 13_676;
         int bonus = price / 20;
-        System.out.println(bonus);
+        System.out.println("Количесто начисленных миль: " + bonus);
 
     }
 }
